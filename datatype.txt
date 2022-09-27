@@ -1,0 +1,12 @@
+There are 8 types of primitive data types:
+
+boolean data type
+byte data type
+char data type
+short data type
+int data type
+long data type
+float data type
+double data type
+
+수정
